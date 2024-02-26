@@ -1,11 +1,12 @@
 /* @media screen and (max-width: 1420px) {
   .event-container {
-    width: 90%; /* Adjust the width for smaller screens */
+    width: 90%; /* Adjust the width for smaller screens
   }
 }
 
 @media screen and (max-width: 768px) {
   .event-container {
-    width: 95%; /* Adjust further for even smaller screens */
+    width: 95%; Adjust further for even smaller screens
   }
-} */
+}
+*/
